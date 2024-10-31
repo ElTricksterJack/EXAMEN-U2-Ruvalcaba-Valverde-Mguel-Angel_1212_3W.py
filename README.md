@@ -26,7 +26,7 @@ tiene <créditos> créditos, donde <asignatura> es
 cada una de las asignaturas del curso, y <créditos> son sus créditos. Al final debe
 mostrar también el número total de créditos del curso.
 
-![image](https://github.com/user-attachments/assets/b8732a35-afd3-4a01-a30d-1b76204ab3b3)
+![image](https://github.com/user-attachments/assets/be5372d7-da3a-44ed-8bb5-7248df9751c9)
 ![image](https://github.com/user-attachments/assets/296daf28-69fc-4748-b7fc-172dc545530f)
 
 # Punto 3
