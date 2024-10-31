@@ -20,7 +20,8 @@ print(f"La calificasion de {M[1]} es {C[1]}")
 print(f"La calificasion de {M[2]} es {C[2]}")
 print(f"La calificasion de {M[3]} es {C[3]}")
 print(f"La calificasion de {M[4]} es {C[4]}")
-#sabia que era bueno tener plantillas propias con migo
+#Me Acorde de la pelea de Yasuke vs Togo Shigekata, o que buena pelea.
+#en espesial el pasado de Togo.
 print("--------------------------------------")
 print("Objetivo: Escribir un programa que almacene las\nasignaturas de un curso (por ejemplo Matemáticas, Física, Química, Historia y Lengua) en \nuna lista, pregunte al usuario la nota que ha sacado en cada\nasignatura, y después las muestre por pantalla con el mensaje En <asignatura> has sacado <nota> donde <asignatura> es\ncada una des las asignaturas de la lista y <nota> cada una de las correspondientes\n")
-print("Resultado: tremendo uso de aunto plantillas, pero sengun las instrusiones del profe hasi esta bien, creo yo.\n")
+print("Resultado:sengun las instrusiones del profe hasi esta bien, creo yo.\n")
