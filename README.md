@@ -26,8 +26,14 @@ tiene <créditos> créditos, donde <asignatura> es
 cada una de las asignaturas del curso, y <créditos> son sus créditos. Al final debe
 mostrar también el número total de créditos del curso.
 
+![image](https://github.com/user-attachments/assets/b8732a35-afd3-4a01-a30d-1b76204ab3b3)
+![image](https://github.com/user-attachments/assets/296daf28-69fc-4748-b7fc-172dc545530f)
+
 # Punto 3
+Escribir un programa que almacene las
+asignaturas de un curso (por ejemplo Matemáticas, Física, Química, Historia y
+Lengua) en una lista, pregunte al usuario la nota que ha sacado en cada
+asignatura, y después las muestre por pantalla con el mensaje En <asignatura> has sacado <nota> donde <asignatura> es
+cada una des las asignaturas de la lista y <nota> cada una de las correspondientes
 
 # Punto 4
-
-# Punto 5
