@@ -36,4 +36,12 @@ Lengua) en una lista, pregunte al usuario la nota que ha sacado en cada
 asignatura, y después las muestre por pantalla con el mensaje En <asignatura> has sacado <nota> donde <asignatura> es
 cada una des las asignaturas de la lista y <nota> cada una de las correspondientes
 
+![image](https://github.com/user-attachments/assets/b2db8532-ee6c-4654-84b5-b9370ffa3721)
+![image](https://github.com/user-attachments/assets/6b14073f-f25d-4d56-b5a5-957902b15c1e)
+
 # Punto 4
+Escribir un programa que pregunte al usuario su nombre, edad, dirección y
+teléfono y lo guarde en un diccionario. Después debe mostrar por pantalla el
+mensaje <nombre> tiene
+<edad> años, vive en <dirección> y su número de teléfono es
+<teléfono>.
